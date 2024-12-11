@@ -9,7 +9,7 @@
 2. Libro "..."
 3. Libro "..."
 
-## ·Pendite
+## ·Pendiente
 1. Libro "..."
 2. Libro "..."
 3. Libro "..."
