@@ -3,3 +3,8 @@
 - Apellido
 - Telefono
 - Genero de lectura favorito
+
+- Adrián
+- Antibón
+- 696696969
+- Acción / Suspense
